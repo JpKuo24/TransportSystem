@@ -1,0 +1,1 @@
+解压后把文件夹放在eclipse的work of eclipse里，在eclipse里运行ControlCenterTest
