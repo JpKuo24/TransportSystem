@@ -9,7 +9,7 @@ Find the src file and a "ControlCenterTest.java" is the entrance class and remem
 Open the cmd of your computer and enter the path of src file then use following commands
 
 
-cd src
+$cd src
 
 
-javac ControlCenterTest.java
+$javac ControlCenterTest.java
